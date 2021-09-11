@@ -8,7 +8,7 @@ const ExplorListing = () => {
     <Container>
       <ExploreCard>
         <ExploreImg src={pic} />
-        <ExploreTitle>Insigna Media Lekki Studio</ExploreTitle>
+        <ExploreTitle>Insigna Media Lekki Studios</ExploreTitle>
         <ExploreType>
           <span style={{ color: "gray", fontSize: "14px" }}>Type</span> : Studio
           Space
